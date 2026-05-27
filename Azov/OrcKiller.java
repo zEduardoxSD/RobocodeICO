@@ -1,5 +1,5 @@
 package Azov;
-Слава Україні
+//Слава Україні
 
 import robocode.*;
 
